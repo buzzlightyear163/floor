@@ -1,0 +1,122 @@
+{
+  "firmsOpen": 23,
+  "tradersOnShift": 0,
+  "tradersHired": 37,
+  "firms": [
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 2,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 8,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 4,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 2,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 3,
+      "onShift": 0
+    },
+    {
+      "name": "NEW FLOOR",
+      "traders": 1,
+      "onShift": 0
+    }
+  ]
+}
