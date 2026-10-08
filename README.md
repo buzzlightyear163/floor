@@ -9,8 +9,8 @@ Intelligence", ger dem strategi och risk-limits, finansierar deras plånbok och
 sätter dem på skift. Projektet återskapar hela den frontend-upplevelsen: kartan,
 möblerna, figurerna, animationerna, NPC-beteendet, alla 19 paneler och flödet.
 
-> Varumärket är bytt till **FLOOR** ("Run your own SI trading floor"). Kontraktsadressen
-> är fortfarande en platshållare — se `BRANDING_TODO.md`. Marknadsföringsbilder ligger i `marketing/`.
+> Varumärket är bytt till **FLOOR** ("Run your own SI trading floor").
+> $FLOOR CA: `pLrwC8WN66YiDwjg4dyZWYa4bqLvxtNMG9nUm3vpump` (CA-baren högst upp på sajten). Marknadsföringsbilder ligger i `marketing/`.
 
 ---
 
@@ -167,7 +167,7 @@ Gäst-firman sparas i `localStorage` (`floor.save.v1`) och flyttas till kontot v
 - Katalogen över alla spelare → **THE STREET** (var "THE FLOOR" i referensen).
 - Titelknappar → `TAKE THE FLOOR` / `BACK TO THE FLOOR` / `VISIT THE STREET`.
 - Logotypen → egen pixelmaskot: 80-tals Wall Street-mäklare (bakåtslickat hår, kritstrecksrandig kostym, röd slips med guldnål, tegelstenstelefon) — `public/assets/brand/logo.png`, byst i `marketing/floor-mascot.png`. Grundaren i spelet har samma kostym och slips.
-- Kontraktsadressen i CA-baren → platshållare.
+- Kontraktsadressen i CA-baren → $FLOOR-minten (`src/config/brand.ts`).
 - OG-bild → screenshot av titelskärmen.
 
 ## Rebranda

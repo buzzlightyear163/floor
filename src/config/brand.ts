@@ -2,8 +2,7 @@
  * Branding — allt som ska bytas vid rebrand samlas här.
  * Se BRANDING_TODO.md.
  *
- * OBS: Referensens varumärkesnamn, logotyp och kontraktsadress har ersatts
- * med neutrala platshållare. Byt ut dem mot ditt eget projekt.
+ * Referensens varumärkesnamn, logotyp och kontraktsadress är ersatta med FLOOR:s egna.
  */
 export const BRAND = {
   /** Spelets/projektets namn. */
@@ -13,11 +12,8 @@ export const BRAND = {
   /** Logotyp på titelskärmen (112x112 pixel-art på vit bakgrund, visas med mix-blend-multiply). */
   logoUrl: "/assets/brand/logo.png",
   logoAlt: "FLOOR logo",
-  /**
-   * Kontraktsadress som visas i CA-baren högst upp.
-   * TODO(branding): ersätt med din egen token-mint (44 tecken).
-   */
-  contractAddress: "YourTokenMintAddressGoesHere111111111111pump",
+  /** $FLOOR token-mint (Solana) — visas i CA-baren högst upp, klick kopierar. */
+  contractAddress: "pLrwC8WN66YiDwjg4dyZWYa4bqLvxtNMG9nUm3vpump",
 } as const;
 
 /** Text som rullar på ticker-skärmarna i trading floor (canvas). */
