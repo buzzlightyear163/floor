@@ -13,7 +13,7 @@ export const BRAND = {
   logoUrl: "/assets/brand/logo.png",
   logoAlt: "FLOOR logo",
   /** $FLOOR token-mint (Solana) — visas i CA-baren högst upp, klick kopierar. */
-  contractAddress: "pLrwC8WN66YiDwjg4dyZWYa4bqLvxtNMG9nUm3vpump",
+  contractAddress: "ivLriUhuAN2knX4AeXayEZ5zLR1AzXEk2KvT1xkpump",
 } as const;
 
 /** Text som rullar på ticker-skärmarna i trading floor (canvas). */

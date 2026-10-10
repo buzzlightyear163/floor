@@ -10,7 +10,7 @@ sätter dem på skift. Projektet återskapar hela den frontend-upplevelsen: kart
 möblerna, figurerna, animationerna, NPC-beteendet, alla 19 paneler och flödet.
 
 > Varumärket är bytt till **FLOOR** ("Run your own SI trading floor").
-> $FLOOR CA: `pLrwC8WN66YiDwjg4dyZWYa4bqLvxtNMG9nUm3vpump` (CA-baren högst upp på sajten). Marknadsföringsbilder ligger i `marketing/`.
+> $FLOOR CA: `ivLriUhuAN2knX4AeXayEZ5zLR1AzXEk2KvT1xkpump` (CA-baren högst upp på sajten). Marknadsföringsbilder ligger i `marketing/`.
 
 ---
 

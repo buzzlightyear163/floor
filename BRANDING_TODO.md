@@ -23,7 +23,7 @@ Ingen av dem hindrar projektet från att köras.
 - [ ] Övrig spel-copy ligger i `src/data/traders.ts`, `src/screens/interact.ts` och panelerna.
 
 ## Token
-- [x] `src/config/brand.ts` → `contractAddress`: `pLrwC8WN66YiDwjg4dyZWYa4bqLvxtNMG9nUm3vpump` (CA-baren högst upp).
+- [x] `src/config/brand.ts` → `contractAddress`: `ivLriUhuAN2knX4AeXayEZ5zLR1AzXEk2KvT1xkpump` (CA-baren högst upp).
 
 ## API / credentials
 - [ ] `VITE_STATS_URL` — riktig endpoint för publik statistik (se `.env.example`).
